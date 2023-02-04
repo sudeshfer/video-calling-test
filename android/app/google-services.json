@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "935085747912",
+    "project_id": "dude-classdev",
+    "storage_bucket": "dude-classdev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935085747912:android:d5e6f06537531c2f48bffd",
+        "android_client_info": {
+          "package_name": "com.example.video_calling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935085747912-484e0aq9gefq4ml3ecu44acr3ktcb7ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX2uo_yCEbqoz6s2gm5u8p1K0KpJredHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935085747912-484e0aq9gefq4ml3ecu44acr3ktcb7ou.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "935085747912-nsl26v5jl2iql3ansuqdv430dum14rnf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.proacademy.dudeclassdev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935085747912:android:d7b28f77f89ecff248bffd",
+        "android_client_info": {
+          "package_name": "com.proacademy.dudeclassdev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935085747912-242gukgra6u2l72k521mh7vuon8k6bsn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proacademy.dudeclassdev",
+            "certificate_hash": "54c6f5dacb46aad1d0964f02ee5bf29be9a362f8"
+          }
+        },
+        {
+          "client_id": "935085747912-484e0aq9gefq4ml3ecu44acr3ktcb7ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX2uo_yCEbqoz6s2gm5u8p1K0KpJredHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935085747912-484e0aq9gefq4ml3ecu44acr3ktcb7ou.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "935085747912-nsl26v5jl2iql3ansuqdv430dum14rnf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.proacademy.dudeclassdev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
